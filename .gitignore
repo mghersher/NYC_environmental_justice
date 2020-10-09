@@ -12,3 +12,6 @@ raw_data
 
 #ignore all ipython checkpoints
 .ipynb_checkpoints
+
+#ignore agent
+Agent
