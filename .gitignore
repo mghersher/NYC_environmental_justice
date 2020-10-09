@@ -1,0 +1,14 @@
+#Ignore credentials folder
+credentials
+
+#Ignore research folder
+Research
+
+#Ignore ESRI version
+Flood_risk_insurance_ESRI.ipynb
+
+#Ignore data
+raw_data
+
+#ignore all ipython checkpoints
+.ipynb_checkpoints
