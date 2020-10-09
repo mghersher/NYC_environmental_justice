@@ -1,0 +1,66 @@
+appdirs==1.4.4
+appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1602242458663/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backports.functools-lru-cache==1.6.1
+cachetools==4.1.1
+carto==1.11.2
+cartoframes==1.0.4
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+click-plugins==1.1.1
+cligj==0.5.0
+decorator==4.4.2
+fastavro==0.22.7
+Fiona==1.8.17
+future==0.18.2
+GDAL==3.1.3
+geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1594925563431/work
+google-api-core==1.22.4
+google-auth==1.22.1
+google-cloud-bigquery==1.22.0
+google-cloud-bigquery-storage==0.7.0
+google-cloud-core==1.4.3
+google-cloud-storage==1.23.0
+google-resumable-media==0.5.1
+googleapis-common-protos==1.52.0
+grpcio==1.32.0
+idna==2.10
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1595446887114/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1598749965211/work
+ipython-genutils==0.2.0
+jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1595018318924/work
+Jinja2==2.11.2
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
+jupyter-core==4.6.3
+MarkupSafe==1.1.1
+munch==2.5.0
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1597938353960/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1601982007188/work
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1595548966091/work
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1598885455507/work
+protobuf==3.13.0
+ptyprocess==0.6.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1600347314331/work
+pyproj @ file:///Users/runner/miniforge3/conda-bld/pyproj_1599595774896/work
+pyrestcli==0.6.11
+python-dateutil==2.8.1
+pytz==2020.1
+pyzmq==19.0.2
+requests==2.24.0
+rsa==4.6
+Rtree==0.9.4
+semantic-version==2.8.5
+Shapely @ file:///Users/runner/miniforge3/conda-bld/shapely_1597990551761/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tornado==6.0.4
+tqdm==4.50.2
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1600970644261/work
+Unidecode==1.1.1
+urllib3==1.25.10
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
