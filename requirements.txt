@@ -6,11 +6,13 @@ backports.functools-lru-cache==1.6.1
 cachetools==4.1.1
 carto==1.11.2
 cartoframes==1.0.4
+CensusData==1.10
 certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
 click-plugins==1.1.1
 cligj==0.5.0
+cycler==0.10.0
 decorator==4.4.2
 fastavro==0.22.7
 Fiona==1.8.17
@@ -27,26 +29,30 @@ google-resumable-media==0.5.1
 googleapis-common-protos==1.52.0
 grpcio==1.32.0
 idna==2.10
-ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1595446887114/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1602682896422/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1598749965211/work
 ipython-genutils==0.2.0
 jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1595018318924/work
 Jinja2==2.11.2
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
 jupyter-core==4.6.3
+kiwisolver==1.2.0
 MarkupSafe==1.1.1
+matplotlib==3.3.2
 munch==2.5.0
 numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1597938353960/work
 pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1601982007188/work
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1595548966091/work
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==8.0.0
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1598885455507/work
 protobuf==3.13.0
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1600347314331/work
+pyparsing==2.4.7
 pyproj @ file:///Users/runner/miniforge3/conda-bld/pyproj_1599595774896/work
 pyrestcli==0.6.11
 python-dateutil==2.8.1
